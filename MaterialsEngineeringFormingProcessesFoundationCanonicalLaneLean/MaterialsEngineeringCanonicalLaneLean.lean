@@ -1,0 +1,16 @@
+import HautevilleHouse.MaterialsEngineeringFormingProcessesFoundationCanonicalLaneLean.CrystallographyPackage
+import HautevilleHouse.MaterialsEngineeringFormingProcessesFoundationCanonicalLaneLean.PhaseDiagramPackage
+import HautevilleHouse.MaterialsEngineeringFormingProcessesFoundationCanonicalLaneLean.ElasticityPackage
+import HautevilleHouse.MaterialsEngineeringFormingProcessesFoundationCanonicalLaneLean.FractureMechanicsPackage
+import HautevilleHouse.MaterialsEngineeringFormingProcessesFoundationCanonicalLaneLean.FormingProcessPackage
+
+-- Root module for the Materials Engineering Forming Processes Foundation Canonical Lane
+-- This imports all the domain-specific packages and provides the top-level namespace.
+
+namespace HautevilleHouse
+namespace MaterialsEngineeringFormingProcessesFoundationCanonicalLaneLean
+
+-- The root module may aggregate domain closures if needed, but currently each package is self-contained.
+
+end MaterialsEngineeringFormingProcessesFoundationCanonicalLaneLean
+end HautevilleHouse
